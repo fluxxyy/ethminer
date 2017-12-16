@@ -8,7 +8,7 @@
 
 The ethminer is an Ethereum GPU mining worker. This is the actively maintained version of ethminer. It originates from [cpp-ethereum] project (where GPU mining has been discontinued) and builds on the improvements made in [Genoil's fork]. See [FAQ](#faq) for more details.
 
-### Features
+###Features
 
 - OpenCL mining
 - Nvidia CUDA mining
